@@ -9,6 +9,9 @@
 
 # Table of contents
 
+![이미지 014](https://github.com/cherrybot/example-food-delivery/assets/15180765/0d40d082-d262-425c-9909-9279dda079c3)
+
+
 - [예제 - 음식배달](#---)
   - [서비스 시나리오](#서비스-시나리오)
   - [체크포인트](#체크포인트)
