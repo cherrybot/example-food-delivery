@@ -1,6 +1,7 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
 1. EventStorming Model : Design Level
+
 ![이미지 014](https://github.com/cherrybot/example-food-delivery/assets/15180765/0d40d082-d262-425c-9909-9279dda079c3)
 
 2. Saga (Pub / Sub)
@@ -10,6 +11,9 @@
 ![image](https://github.com/cherrybot/example-food-delivery/assets/15180765/cd13927d-0953-49cc-9f8a-2fab417d4b91)
 
 3. CQRS
+
+![image](https://github.com/cherrybot/example-food-delivery/assets/15180765/ff4c0b96-040f-409b-9885-2211b495c8e1)
+
 
 4. Compensation / Correlation
 
