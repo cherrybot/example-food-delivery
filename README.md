@@ -17,6 +17,10 @@
 
 4. Compensation / Correlation
 
+![image](https://github.com/cherrybot/example-food-delivery/assets/15180765/ba11c0c1-b105-46c5-802f-d210d8f9903d)
+![image](https://github.com/cherrybot/example-food-delivery/assets/15180765/accf4bcc-dff1-4bb0-bbdb-138988c82901)
+
+
 
 # 예제 - 음식배달
 
