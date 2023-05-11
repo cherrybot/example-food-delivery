@@ -3,8 +3,8 @@
 1. EventStorming Model : Design Level
 ![이미지 014](https://github.com/cherrybot/example-food-delivery/assets/15180765/0d40d082-d262-425c-9909-9279dda079c3)
 
-2. Saga (Pub / Sub)
-##
+#2. Saga (Pub / Sub)
+
 ![image](https://github.com/cherrybot/example-food-delivery/assets/15180765/0e49424a-12a5-485d-9efc-8e62c24756e6)
 ![image](https://github.com/cherrybot/example-food-delivery/assets/15180765/11fb125e-8fa8-4d02-99c9-3575bed355c3)
 ![image](https://github.com/cherrybot/example-food-delivery/assets/15180765/cd13927d-0953-49cc-9f8a-2fab417d4b91)
