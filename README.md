@@ -1,5 +1,18 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
+1. EventStorming Model : Design Level
+![이미지 014](https://github.com/cherrybot/example-food-delivery/assets/15180765/0d40d082-d262-425c-9909-9279dda079c3)
+
+2. Saga (Pub / Sub)
+![image](https://github.com/cherrybot/example-food-delivery/assets/15180765/0e49424a-12a5-485d-9efc-8e62c24756e6)
+![image](https://github.com/cherrybot/example-food-delivery/assets/15180765/11fb125e-8fa8-4d02-99c9-3575bed355c3)
+![image](https://github.com/cherrybot/example-food-delivery/assets/15180765/cd13927d-0953-49cc-9f8a-2fab417d4b91)
+
+3. CQRS
+
+4. Compensation / Correlation
+
+
 # 예제 - 음식배달
 
 본 예제는 MSA/DDD/Event Storming/EDA 를 포괄하는 분석/설계/구현/운영 전단계를 커버하도록 구성한 예제입니다.
@@ -8,9 +21,6 @@
 
 
 # Table of contents
-
-![이미지 014](https://github.com/cherrybot/example-food-delivery/assets/15180765/0d40d082-d262-425c-9909-9279dda079c3)
-
 
 - [예제 - 음식배달](#---)
   - [서비스 시나리오](#서비스-시나리오)
